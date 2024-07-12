@@ -1,6 +1,6 @@
-# Princess Diaries
+# 广月昕的秘密基地
 
-A simple and customizable theme for Jekyll.
+A simple and customizable theme for 广月昕.
 
 -
 
